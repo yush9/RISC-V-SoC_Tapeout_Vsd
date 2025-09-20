@@ -13,7 +13,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Task0/ReadMe0.md) | 🛠️ [Tools Installation](Week0/Task0/ReadMe0.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+| [**Task 0**](Week0/ReadMe0.md) | 🛠️ [Tools Installation](Week0/ReadMe0.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
 
 
 
